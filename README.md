@@ -5,7 +5,7 @@
 - 📫 How to reach me getaayam@gmail.com
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&layout=compact&theme=dark&langs_count=8&hide=Handlebars,RichTextFormat)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&layout=compact&theme=dark&langs_count=8&hide=Handlebars,shell,Rich)
 
 <!---
 aayamdahal/aayamdahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
