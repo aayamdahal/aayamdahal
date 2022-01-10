@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Node.js,
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me getaayam@gmail.com
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal)](https://github.com/aayamdahal/github-readme-stats)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&layout=compact&theme=dracula)](https://github.com/aayamdahal/github-  readme-stats)
 
 <!---
 aayamdahal/aayamdahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
