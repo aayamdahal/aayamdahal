@@ -22,8 +22,6 @@
  <a href="mailto:getaayam@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 
-<br />
-
 
 ## 🛠️ My favorite tools
 
@@ -62,7 +60,6 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 <br />
-
 
 ### 🔧 Software and tools
 
