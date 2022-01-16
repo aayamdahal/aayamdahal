@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @aayamdahal
 - 👀 I’m interested in JavaScript,Python,React,Node.js,web3. 
-- 🌱 I’m currently learning Node.js,
+- 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me getaayam@gmail.com
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&layout=compact&theme=dark&langs_count=8&hide=Handlebars,shell)
   
 
 <!---
