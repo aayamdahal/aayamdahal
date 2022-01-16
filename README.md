@@ -21,6 +21,7 @@
 <br/>
 
 ## 🛠️ My favorite tools
+<br/>
 
 ### 👨‍💻 Programming languages
 
@@ -49,7 +50,6 @@
  
 </p>
 <br />
-
 ### 🗄️ Databases and cloud hosting
 
 <p>
