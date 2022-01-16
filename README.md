@@ -4,17 +4,17 @@
 
 
 
-## 🎓 I'm an CS student
-
-- 🔭 I’m currently designing a news aggregator website
+## 🎓 I'm a CS student
+- 👀 I’m interested in Python, Node.js, Web3.
+- 🔭 I’m currently designing a news aggregator website.
 - 🌱 I’m currently learning Node.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
 
 ## :email: Find me on:
 
 <!--
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="aayamdahal | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aayamdahal | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 
 <p align="center">
@@ -54,6 +54,6 @@
 
 
 [mail]: getaayam@gmail.com
-
+[Linkdein]: https://www.linkedin.com/in/aayam-dahal-40725522a/
 
 
