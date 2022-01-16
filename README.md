@@ -9,7 +9,7 @@
 - 🔭 I’m currently designing a news aggregator website.
 - 🌱 I’m currently learning Node.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
-
+<br/>
 ## :email: Find me on:
 
 <!--
