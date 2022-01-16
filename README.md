@@ -9,19 +9,16 @@
 - 🔭 I’m currently designing a news aggregator website.
 - 🌱 I’m currently learning Node.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
-<br/>
-## :email: Find me on:
 
-<!--
-[<img align="left" alt="aayamdahal | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aayamdahal | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+<br/>
+
+## :email: Find me on:
 
 <p align="center">
  <a href="https://www.linkedin.com/in/aayam-dahal-40725522a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:getaayam@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
-
+<br/>
 
 ## 🛠️ My favorite tools
 
