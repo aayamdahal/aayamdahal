@@ -71,15 +71,6 @@
 
 
 
-## :trophy: My Github Stats:
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&hide=php&theme=tokyonight" />
-</a>
-</div>
-
-
-
 [mail]: getaayam@gmail.com
 [linkedin]: https://www.linkedin.com/in/aayam-dahal-40725522a/
 
