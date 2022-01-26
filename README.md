@@ -70,8 +70,6 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayamdahal&langs_count=8)]
-
 
 [mail]: getaayam@gmail.com
 [linkedin]: https://www.linkedin.com/in/aayam-dahal-40725522a/
