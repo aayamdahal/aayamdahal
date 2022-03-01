@@ -18,7 +18,7 @@
 </p>
 <br/>
  🛠️ My favorite tools:
-
+  <br/>
 <p align="center">
      <a href="https://github.com/search?q=user%3aaayamdahal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3aaayamdahal+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
