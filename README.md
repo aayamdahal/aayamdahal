@@ -17,8 +17,7 @@
  <a href="getaayam@gmail.com"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 <br/>
- 🛠️ My favorite tools
-<br/>
+ 🛠️ My favorite tools:
 
 <p align="center">
      <a href="https://github.com/search?q=user%3aaayamdahal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
