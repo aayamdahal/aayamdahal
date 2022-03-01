@@ -11,8 +11,10 @@
 - 👯 I’m looking to collaborate with anyone on any project.
 <br/>
 ## :email: Find me on:
- <a href="https://www.linkedin.com/in/aayam-dahal-40725522a/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<p style= "center">
+  <a href="https://www.linkedin.com/in/aayam-dahal-40725522a/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:getaayam@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a> 
+</p>
 <br/>
 ## 🛠️ My favorite tools
 <br/>
