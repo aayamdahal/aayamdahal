@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Node.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
 <br/>
- ## :email: Find me on:
+  :email: Find me on:
 
 <p align="center">
  <a href="https://www.linkedin.com/in/gaurav-poudel-76645a12b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px; color:#FF0000" ></a>
