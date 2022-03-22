@@ -13,7 +13,7 @@
   :email: Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/aayam-dahal-40725522a/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px; color:#FF0000" ></a>
+ <a href="https://www.linkedin.com/in/aayamdahal/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px; color:#FF0000" ></a>
  <a href="getaayam@gmail.com"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 <br/>
