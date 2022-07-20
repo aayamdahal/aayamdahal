@@ -28,7 +28,7 @@
     <a href="https://github.com/search?q=user%3aaayamdahal+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3aaayamdahal+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
