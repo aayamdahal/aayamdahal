@@ -7,7 +7,7 @@
 ## 🎓 I'm a CS student
 - 👀 I’m interested in Python, Node.js, Web3.
 - 🔭 I’m currently designing a news aggregator website.
-- 🌱 I’m currently learning Node.js. 
+- 🌱 I’m currently learning Typescript. 
 - 👯 I’m looking to collaborate with anyone on any project.
 <br/>
   :email: Find me on:
