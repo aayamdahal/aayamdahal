@@ -1,5 +1,10 @@
 ## Hi there 👋 I'm Aayam
-![](https://visitor-badge.laobi.icu/badge?page_id=aayamdahal.aayamdahal) [![Github](https://img.shields.io/github/followers/aayamdahal?label=Followers&logo=Github)](https://github.com/aayamdahal)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aayamdahal/count.svg" />
+</p>
+
 
 
 
@@ -45,5 +50,11 @@
 
 [mail]: getaayam@gmail.com
 [linkedin]: https://www.linkedin.com/in/aayam-dahal-40725522a/
+
+
+[![Aayam's Top Langs](https://github-readme-stats-aayam.vercel.app/api/top-langs/?username=aayamdahal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Typescript+and+React+Node.js+💻;I've+over+2+years+of+React/Node+experience+🧔)](https://git.io/typing-svg)
 
 
