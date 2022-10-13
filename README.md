@@ -4,8 +4,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/aayamdahal/count.svg" />
 </p>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Typescript+and+React/Node.js+💻;I've+over+1+year(s)+of+React/Node+experience+🧔)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+React+and+Node.js+and+Typescript+ 💻;I've+over+1+year(s)+of+Web Development+experience+🧔)](https://git.io/typing-svg)
 
 ## 🎓 I'm a CS student
 - 👀 I’m interested in Python, Node.js, Web3.
