@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aayam
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Flutter+and+native+Android+(Kotlin)+📱;I+write+blogs+on+flutter-specific+topics+✍️;I've+over+2+years+of+flutter+experience+🧔)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+React+and+Node.js+TypeScript+💻;I've+over+1+year(s)+of+Web+Development+experience+🧔)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
