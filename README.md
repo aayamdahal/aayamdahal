@@ -5,8 +5,6 @@
   <img src="https://profile-counter.glitch.me/aayamdahal/count.svg" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+React+and+Node.js+and+Typescript+ 💻;I've+over+1+year(s)+of+Web Development+experience+🧔)](https://git.io/typing-svg)
-
 ## 🎓 I'm a CS student
 - 👀 I’m interested in Python, Node.js, Web3.
 - 🔭 I’m currently designing a news aggregator website.
@@ -50,5 +48,6 @@
 [linkedin]: https://www.linkedin.com/in/aayam-dahal-40725522a/
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+React+and+Node.js+and+Typescript+ 💻;I've+over+1+year(s)+of+Web Development+experience+🧔)](https://git.io/typing-svg)
 
 
