@@ -3,8 +3,8 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/aayamdahal/count.svg" />
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Typescript+and+React/Node.js+💻;I've+over+1+year(s)+of+React/Node+experience+🧔)](https://git.io/typing-svg)
 </p>
+                 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Typescript+and+React/Node.js+💻;I've+over+1+year(s)+of+React/Node+experience+🧔)](https://git.io/typing-svg)
 
 
 
