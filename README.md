@@ -1,11 +1,6 @@
 ## Hi there 👋 I'm Aayam
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+React.js+and+Node.js+with+TypeScript+💻;I've+over+1+year(s)+of+Web+Development+experience+🧔)](https://git.io/typing-svg)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aayamdahal/count.svg" />
-</p>
-
 ## 🎓 I'm a CS student
 - 👀 I’m interested in Python, Node.js, Web3.
 - 🔭 I’m currently designing a news aggregator website.
